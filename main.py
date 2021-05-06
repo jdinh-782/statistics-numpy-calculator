@@ -113,7 +113,6 @@ def calculate(list):
     return calculations
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8]
     calculate(numbers)
